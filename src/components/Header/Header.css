@@ -1,0 +1,53 @@
+.header{
+    padding: 4rem 5rem;
+    background-color: #003580;
+    color: white;
+    position: relative;
+  }
+
+.header > *{
+    margin-top: 1rem;
+}
+
+.big-heading{
+    font-size: 3rem;
+}
+
+.small-heading{
+    font-style: italic;
+    color: goldenrod;
+}
+
+.btn{
+   background-color: #0071c2;
+   color: white;
+}
+
+.btn:hover{
+    background-color: #00487A;
+}
+
+.searchbar{
+    position: absolute;
+    bottom: -25px;
+    left: 8%;
+    width: 80%;
+    text-align: center;
+}
+
+input{
+    padding: 1rem 3rem;
+    border: 1px solid goldenrod;
+}
+
+input[type="date"]{
+    padding: 0.95rem;
+}
+
+.search-button{
+    padding: 1rem;
+    background-color: #0071c2;
+}
+
+
+

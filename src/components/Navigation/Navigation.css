@@ -1,0 +1,38 @@
+.nav{
+  padding: 4rem 5rem;
+  background-color: #003580;
+  color: white;
+}
+
+.upper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+.btn{
+  border: none;
+  padding: 0.7rem 1.2rem;
+  margin-right: 0.5rem;
+  cursor: pointer;
+  background-color: white;
+  color: #1799DA;
+}
+
+.list{
+    display: flex;
+    align-items: center;
+    margin-top: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.item{
+    margin-right: 1rem;
+}
+
+.icon{
+  margin-right: 0.2rem;
+  color: goldenrod;
+}
